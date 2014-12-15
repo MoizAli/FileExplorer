@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/E:/AndroidStudioProjects/Test-FileManager/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="black">#000000</color>
+    <color name="brightBlue">#0000FF</color>
+    <color name="brightGreen">#00FF00</color>
+    <color name="brightRed">#FF0000</color>
+    <color name="darkBlue">#880000FF</color>
+    <color name="darkGray">#333333</color>
+    <color name="lightGray">#777777</color>
+    <color name="offWhite">#DDDDDD</color>
+    <color name="transGray">#cc444444</color>
+    <color name="transparent">#000000FF</color>
+    <color name="white">#FFFFFF</color>
+    <!-- From: file:/E:/AndroidStudioProjects/Test-FileManager/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">File Manager</string>
+
+</resources>

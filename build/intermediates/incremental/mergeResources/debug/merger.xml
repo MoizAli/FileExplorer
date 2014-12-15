@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="E:\AndroidStudioProjects\Test-FileManager\res" >
+            <file
+                name="appicon"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\appicon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="back"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\back.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="color"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\color.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="config32"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\config32.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="excel"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\excel.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="filter"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\filter.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="folder"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\folder.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="folder_full"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\folder_full.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="help"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\help.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="home"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\home.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="html32"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\html32.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="image"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\image.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="info"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\info.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="jar32"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\jar32.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="logout"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\logout.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="more"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\more.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="movies"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\movies.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="multiselectbox_38"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\multiselectbox_38.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="multiselect_38"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\multiselect_38.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="music"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\music.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="newfolder"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\newfolder.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="pdf"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\pdf.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ppt"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\ppt.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="processinfo"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\processinfo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="rename"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\rename.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="search"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\search.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="setting"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\setting.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="singlecheck"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\singlecheck.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="space"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\space.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="text"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\text.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="toolbox"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\toolbox.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="warning"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\warning.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="word"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\word.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="xml32"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\xml32.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="zip"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-hdpi\zip.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="appicon"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\appicon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="back"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\back.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="color"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\color.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="config32"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\config32.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="excel"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\excel.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="filter"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\filter.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="folder"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\folder.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="folder_full"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\folder_full.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="help"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\help.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="home"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\home.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="html32"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\html32.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="image"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\image.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="info"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\info.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="jar32"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\jar32.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="logout"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\logout.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="more"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\more.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="movies"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\movies.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="multiselectbox_38"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\multiselectbox_38.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="multiselect_38"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\multiselect_38.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="music"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\music.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="newfolder"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\newfolder.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="pdf"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\pdf.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ppt"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\ppt.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="processinfo"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\processinfo.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="rename"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\rename.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="search"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\search.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="setting"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\setting.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="singlecheck"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\singlecheck.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="space"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\space.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="text"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\text.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="toolbox"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\toolbox.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="warning"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\warning.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="word"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\word.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="xml32"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\xml32.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="zip"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-ldpi\zip.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="appicon"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\appicon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="back"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\back.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="color"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\color.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="config32"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\config32.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="excel"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\excel.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="filter"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\filter.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="folder"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\folder.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="folder_full"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\folder_full.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="help"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\help.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="home"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\home.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="html32"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\html32.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon64"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\icon64.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="image"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\image.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="info"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\info.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="jar32"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\jar32.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="logout"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\logout.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="more"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\more.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="movies"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\movies.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="multiselectbox_38"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\multiselectbox_38.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="multiselect_38"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\multiselect_38.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="music"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\music.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="newfolder"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\newfolder.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="pdf"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\pdf.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ppt"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\ppt.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="processinfo"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\processinfo.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="rename"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\rename.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="search"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\search.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="setting"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\setting.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="singlecheck"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\singlecheck.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="space"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\space.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="text"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\text.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="toolbox"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\toolbox.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="warning"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\warning.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="wireless"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\wireless.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="word"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\word.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="xml32"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\xml32.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="zip"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\drawable-mdpi\zip.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="main"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="tablerow"
+                path="E:\AndroidStudioProjects\Test-FileManager\res\layout\tablerow.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="E:\AndroidStudioProjects\Test-FileManager\res\values\colors.xml"
+                qualifiers="" >
+                <color name="transGray" >#cc444444
+                </color>
+                <color name="darkGray" >#333333
+                </color>
+                <color name="offWhite" >#DDDDDD
+                </color>
+                <color name="white" >#FFFFFF
+                </color>
+                <color name="black" >#000000
+                </color>
+                <color name="lightGray" >#777777
+                </color>
+                <color name="transparent" >#000000FF
+                </color>
+                <color name="darkBlue" >#880000FF
+                </color>
+                <color name="brightGreen" >#00FF00
+                </color>
+                <color name="brightBlue" >#0000FF
+                </color>
+                <color name="brightRed" >#FF0000
+                </color>
+            </file>
+            <file
+                path="E:\AndroidStudioProjects\Test-FileManager\res\values\strings.xml"
+                qualifiers="" >
+                <string name="app_name" >File Manager
+                </string>
+            </file>
+        </source>
+        <source path="E:\AndroidStudioProjects\Test-FileManager\build\generated\res\rs\debug" />
+        <source path="E:\AndroidStudioProjects\Test-FileManager\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="E:\AndroidStudioProjects\Test-FileManager\build-types\debug\res" />
+    </dataSet>
+
+</merger>
